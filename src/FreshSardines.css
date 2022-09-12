@@ -1,0 +1,37 @@
+.Sardines {
+  text-align: center;
+}
+.Sardines img {
+  width: 600px;
+  height: 400px;
+}
+.Sardines h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid black;
+}
+.Sardines h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sardines p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sardines a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Sardines-button a {
+  text-decoration: none;
+  margin: 1.1rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.Sardines-button {
+  text-align: center;
+  margin-top: 10px;
+}

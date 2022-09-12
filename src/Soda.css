@@ -1,0 +1,37 @@
+.Soda {
+  text-align: center;
+}
+.Soda img {
+  width: 400px;
+  height: 500px;
+}
+.Soda h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid black;
+}
+.Soda h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Soda p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Soda a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Soda-button a {
+  text-decoration: none;
+  margin: 1.1rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.Soda-button {
+  text-align: center;
+  margin-top: 10px;
+}

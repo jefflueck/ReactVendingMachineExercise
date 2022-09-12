@@ -1,0 +1,37 @@
+.Chips {
+  text-align: center;
+}
+.Chips img {
+  width: 400px;
+  height: 500px;
+}
+.Chips h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid black;
+}
+.Chips h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Chips p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Chips a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Chips-button a {
+  text-decoration: none;
+  margin: 1.1rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-size: 1.2rem;
+}
+
+.Chips-button {
+  text-align: center;
+  margin-top: 10px;
+}

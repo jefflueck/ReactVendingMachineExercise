@@ -1,0 +1,15 @@
+.Navbar a {
+  text-decoration: none;
+  margin: 1.1rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Navbar button {
+  font-size: 1.2rem;
+}
+
+.Navbar {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
